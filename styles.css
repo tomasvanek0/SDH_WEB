@@ -1,0 +1,44 @@
+body {
+    background: lightgrey;
+    padding: 0;
+    margin: 0;
+
+}
+header {
+    position: relative;
+}
+
+.text {
+    font-size: 24px;
+    color: white;
+    padding: 50px;
+}
+
+
+.nazev{
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    top: -30%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+h1 {
+    font-size: 100px;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.kontejner-název{
+    position: absolute;
+    height: 800px;
+    width: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(255, 0, 0);
+    border-radius: 32px;
+}
